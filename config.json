@@ -3,6 +3,6 @@
     "clientSecret": "1txz2z0UurSJ-ulzW_SwD1KD-tjLxqyX",
     "redirectURL": "https://wptoolsdl.cloudflareaccess.com/cdn-cgi/access/callback",
     "serversToCheckRolesFor": [
-
+            ”ユーザー”
     ]
 }
